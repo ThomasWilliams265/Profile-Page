@@ -1,13 +1,4 @@
 
-body { 
-    background-image: url('images.html/backgroundphoto.JPG');
-    background-color: #00000000;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: scroll;
-}
-
-
 p {
     background-color: #666699;
     padding:0px;
