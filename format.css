@@ -1,19 +1,19 @@
 
 p {
-    background-color: #666699;
+    background-color: #05053b65;
     padding:0px;
-    font-size:20px;
-    color: #0a0a0f;
+    font-size:28px;
+    color: #ffffff;
     max-width:600px;
     text-align:center;
     margin:auto;
   }
   
   h1 {
-    color: white;
+    color: #ffffff;
     max-width:600px;
     text-align:center;
-    font-size:30px;
+    font-size:40px;
     margin:auto;
     Padding:100px
     
@@ -28,9 +28,3 @@ p {
     text-align: center;
     
   }
-
-.space {
-    height:50px;
-    padding:10px;
-    margin:auto;
-}
