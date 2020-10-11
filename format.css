@@ -28,3 +28,9 @@ p {
     text-align: center;
     
   }
+
+.space {
+    height:50px;
+    padding:10px;
+    margin:auto;
+}
