@@ -1,0 +1,26 @@
+p {
+    background-color:grey;
+    color:white;
+    max-width:600px;
+    text-align:center;
+    margin:auto;
+  }
+  
+  h1 {
+    background-color:grey;
+    color:white;
+    max-width:600px;
+    text-align:center;
+    margin:auto;  
+    
+  }
+  
+  .button a {
+    margin: 5px   
+  }
+  
+  .button {
+    margin: auto;
+    text-align: center;
+    
+  }
