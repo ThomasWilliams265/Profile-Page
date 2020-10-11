@@ -15,7 +15,7 @@ p {
     text-align:center;
     font-size:40px;
     margin:auto;
-    Padding:100px
+    Padding:150px
     
   }
   
@@ -26,5 +26,13 @@ p {
   .button {
     margin: auto;
     text-align: center;
+    position:relative;
+    top:100px;
 
   }
+
+  .container{
+    position:relative;
+    top:100px;
+    }
+  
