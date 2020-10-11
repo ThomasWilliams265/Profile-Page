@@ -1,17 +1,20 @@
 p {
-    background-color:grey;
-    color:white;
+    background-color: #666699;
+    padding:0px;
+    font-size:20px;
+    color: #0a0a0f;
     max-width:600px;
     text-align:center;
     margin:auto;
   }
   
   h1 {
-    background-color:grey;
-    color:white;
+    color: white;
     max-width:600px;
     text-align:center;
-    margin:auto;  
+    font-size:30px;
+    margin:auto;
+    Padding:100px
     
   }
   
